@@ -73,3 +73,6 @@ npx bgen [project-name]
 
 ## 💻 Contributing
 If you want to contribute to the development, feel free to open a PR or fork the repo! 💪
+
+## License
+This project is licensed under the [Apache 2.0](LICENSE) license. You can use it but you can't sell it as your own. 😎🔥
