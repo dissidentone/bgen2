@@ -73,3 +73,5 @@ npx bgen [proje-adı]
 
 ## 💻 Katkıda Bulun
 Geliştirmeye katkı sağlamak istiyorsan, PR açabilir veya repo’yu forklayabilirsin! 💪
+## Lisans
+Bu proje [Apache 2.0](LICENSE) lisansı ile lisanslanmıştır. Kullanabilirsiniz ama benim diye satamazsınız. 😎🔥
