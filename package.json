@@ -1,0 +1,11 @@
+{
+  "name": "bgen",
+  "version": "1.0.0",
+  "description": "Backend Template Generator",
+  "bin": {
+    "bgen": "backend-template-generator.js"
+  },
+  "dependencies": {
+    "fs-extra": "^10.0.0"
+  }
+}
